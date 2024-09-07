@@ -1,0 +1,3 @@
+altere o token do bot e o id do chat no ->> AppFinishingInfo.php nas.
+
+Qualquer duvida entrar em contato discord: lipeey_
